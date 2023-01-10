@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const HomePage = () => {};","map":{"version":3,"sources":["C:/Users/moham/OneDrive/سطح المكتب/React Application/nextjsApp/pages/index.js"],"names":["HomePage"],"mappings":"AAAA,OAAO,MAAMA,QAAQ,GAAG,MAAK,CAE5B,CAFM","sourcesContent":["export const HomePage = ()=> {\r\n\r\n}\r\n\r\n"]},"metadata":{},"sourceType":"module"}
